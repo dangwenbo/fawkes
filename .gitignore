@@ -18,3 +18,4 @@ fawkes_dev/protect_personId.txt
 # developer environments
 .idea
 .vscode
+.venv
